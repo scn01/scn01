@@ -10,17 +10,17 @@
 ---
 
 ## 🛠️ Currently Working With:
-- 🕹️ Unity & Unreal Engine
-- 💻 Languages: C++, Python, C#, JavaScript
-- 🎨 Blender for 3D assets and animations
-- 🧪 Learning: Game physics, AI for games, networking
+- Unity & Unreal Engine
+- Languages: C++, Python, C#, JavaScript
+- Blender for 3D assets and animations
+- Learning: Game physics, AI for games, networking
 
 ---
 
 ## 🚧 Projects I'm Building
-- 🎮 **Indie Game Prototype** – a fast-paced action platformer (Unity + C#)
-- 🔧 **Level Design Toolkit** – procedural tools to streamline level creation
-- 🌐 **Dev Portfolio Website** – showcasing my games and experiments
+- **Indie Game Prototype** – a fast-paced action platformer (Unity + C#)
+- **Level Design Toolkit** – procedural tools to streamline level creation
+- **Dev Portfolio Website** – showcasing my games and experiments
 
 ---
 
@@ -32,9 +32,9 @@
 ---
 
 ## 📫 Let’s Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ishan-fernandes-85a02b34a/)
+- [LinkedIn](https://www.linkedin.com/in/ishan-fernandes-85a02b34a/)
 <!-- - 🕹️ [Itch.io](https://itch.io) *(if you publish games)* -->
-- ✉️ Email: ferns.ishan@gmail.com
+- Email: ferns.ishan@gmail.com
 
 > *"Code is my paintbrush, the game is my canvas."*
 
