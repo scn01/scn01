@@ -27,7 +27,7 @@
 ## 📈 Goals for 2025
 - Complete 3 playable games
 - Contribute to an open-source game dev project
-- Build a strong game dev portfolio for my Master’s application
+- Build a strong game dev portfolio
 
 ---
 
