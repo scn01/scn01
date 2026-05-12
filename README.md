@@ -35,6 +35,7 @@
 - [LinkedIn](https://www.linkedin.com/in/ishan-fernandes-85a02b34a/)
 <!-- - 🕹️ [Itch.io](https://itch.io) *(if you publish games)* -->
 - Email: ferns.ishan@gmail.com
+- Portfolio: (https://ishanfernandes.uk)
 
 > *"Code is my paintbrush, the game is my canvas."*
 
