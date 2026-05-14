@@ -59,7 +59,7 @@ Built from scratch, zero frameworks, zero libraries. Every animation, modal, and
 
 - JS animation system, modal stack, form validation, and full responsive layout, **no dependencies**
 - Embedded playable **Snake game** using Canvas API with localStorage high-score persistence
-- Live at [ishanfernandes.uk](https://ishanfernandes.uk) — not a Figma mock-up or localhost demo
+- Live at [ishanfernandes.uk](https://ishanfernandes.uk), not a Figma mock-up or localhost demo
 
 ---
 
