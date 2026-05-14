@@ -33,7 +33,7 @@ A browser platformer built entirely without an engine. The player must finish le
 ### 🃏 [MNMX Memory Battle](https://github.com/scn01/mnmx-memory-battle) &nbsp;·&nbsp; AI Card Game
 > *JavaScript · CSS3 · Probabilistic AI · Web Audio API*
 
-A memory card game with an AI opponent that actually remembers — not a random bot.
+A memory card game with an AI opponent that actually remembers, not a random bot.
 
 - **Bayesian-style memory AI**: weights move decisions against a running history of revealed cards, not random selection
 - **5 progressive difficulty tiers**: tune AI aggression and memory retention independently, extending average session length
@@ -55,9 +55,9 @@ A multi-entity academic management system designed UML-first, code second.
 ### 🌐 [Portfolio Website](https://ishanfernandes.uk) &nbsp;·&nbsp; Live Production Site
 > *Vanilla JS · HTML5 · CSS3 · Responsive · Canvas API*
 
-Built from scratch — zero frameworks, zero libraries. Every animation, modal, and layout rule is written by hand.
+Built from scratch, zero frameworks, zero libraries. Every animation, modal, and layout rule is written by hand.
 
-- JS animation system, modal stack, form validation, and full responsive layout — **no dependencies**
+- JS animation system, modal stack, form validation, and full responsive layout, **no dependencies**
 - Embedded playable **Snake game** using Canvas API with localStorage high-score persistence
 - Live at [ishanfernandes.uk](https://ishanfernandes.uk) — not a Figma mock-up or localhost demo
 
@@ -78,8 +78,8 @@ Built from scratch — zero frameworks, zero libraries. Every animation, modal, 
 
 ## Currently
 
-- 📚 &nbsp;Year 1 CS @ RHUL — Year 2 focus: **Software Engineering · Symbolic AI · Maths for CS**
-- 🎮 &nbsp;Migrating browser game portfolio to engine-based dev — actively building in **Godot**
+- 📚 &nbsp;Year 1 CS @ RHUL, Year 2 focus: **Software Engineering · Symbolic AI · Maths for CS**
+- 🎮 &nbsp;Migrating browser game portfolio to engine-based dev, actively building in **Godot**
 - 🔐 &nbsp;Self-studying offensive & defensive security alongside my degree
 - 💼 &nbsp;**Open to internships and part-time roles from Summer 2026**
 
