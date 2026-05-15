@@ -67,7 +67,7 @@ Built from scratch, zero frameworks, zero libraries. Every animation, modal, and
 
 | Area | Skills |
 |---|---|
-| **Languages** | JavaScript (ES6+) · Python · Java · HTML5 · CSS3 · SQL |
+| **Languages** | JavaScript · Python · Java · HTML5 · CSS3 · SQL |
 | **Game Dev** | Canvas API · Custom game loops · Collision detection · Ghost replay · Adaptive AI · Godot *(learning)* |
 | **Engineering** | OOP · Design Patterns (MVC, SoC, SRP) · UML · Git / GitHub |
 | **Web** | DOM manipulation · REST APIs · Responsive design · CSS animations · Form validation |
